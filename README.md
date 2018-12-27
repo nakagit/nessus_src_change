@@ -63,8 +63,8 @@ Nessus で、送信元ポート番号を変更して、スキャンできるよ�
    
    デフォルトの Nessusプラグイン をリストアします。
 
-   事前にバックアップしたファイル 「/opt/nessus/lib/nessus/<日付>_<時間>_plugins.tar.gz」を  
-   指定します。指定したバックアッププラグインが、/opt/nessus/lib/nessus/pluginsフォルダにリストアされます。
+   事前にバックアップしたファイル 「/opt/nessus/lib/nessus/<日付>_<時間>_plugins.tar.gz」を指定します。  
+   指定したバックアッププラグインが、/opt/nessus/lib/nessus/pluginsフォルダにリストアされます。  
    [5分程度]
 
 
