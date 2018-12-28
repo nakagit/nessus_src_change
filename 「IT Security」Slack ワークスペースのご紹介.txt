@@ -1,0 +1,30 @@
+「IT Security」Slack ワークスペースのご紹介
+
+先日、「IT Security」という Slack ワークスペースを作成しました。
+IT 関連ではなくても、何でも、情報発信 & 共有できます。
+
+現在あるチャンネルは、こちらです。
+# ctf  (CTF 関連)
+# general  (アナウンス など)
+# iot  (IoT 関連)
+# ir  (Incident Response 関連)
+# malware  (マルウェア関連)
+# osint  (OSINT 関連)
+# pentest  (ペネトレーションテスト関連)
+# random  (IT セキュリティ関連)
+# 雑談  (IT 関連 など)
+# 自己紹介  (必須ではありませんので)
+
+皆で、IT セキュリティ関連の情報共有 & 交換 ができれば、と思っています。
+そして、人と人との交流もしていきたい、と念じています。 
+
+下記リンクから、参加可能ですので、ご参加いただけると、嬉しいです。
+(2018/12/28 現在、参加メンバーが、170名を超えました！)
+
+「IT Security」Slack ワークスペースに参加される方は、こちらです。
+https://join.slack.com/t/itsecurityjp/shared_invite/enQtNDc2NzM2NzI3ODMxLTJiM2NkNDdjNjU3YzUyNmNiYThjZDY4ZjBhZWYyZjFjNWI4OGU3MzU4NTc0Y2YxYzg2YTI1ZmE3YmNkMzE1Yzg
+
+「IT Security」Slack ワークスペース
+https://itsecurityjp.slack.com/
+
+END
